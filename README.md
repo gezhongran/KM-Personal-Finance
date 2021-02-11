@@ -8,22 +8,22 @@
   每个主题的拓荒营只有一次，致敬参与理财投资拓荒勇者们，以下是他们的名字，排名不分先后：
   emerald park、L、C罗、达芬奇、单一念、Altaria、李泽煜Capmon、花花、summer、Ben~?、长风、__丶、不周、彦喻、Spring、西门牛、向往平静、ycl、Han Fei、chenyang、冯静仪_Jane、张希、一乐拉面要放鸣人卷、黄雪、木头、浅浅的眠、陈小石、月月、叮当叮咚、小人物、徐景、018、陈梓滢、YING?、WEIs1、Jinghong、米妖喵、月见葳蕤、Aromacat、KONG、怪盗KID、七七、Harrison、清澈溪流、巫小宏、薰一、驽马、nancy、Patric、琪、FF（IBM）、WS-？、江、曾梓庭、蓝川、_、方逸鹏?Terry、郁珏、咏叹
 
-### 1. 书单资源：**[个人财务管理（金融、投资、理财）](https://www.douban.com/doulist/134957534/)**
+### 1. 书单资源：[个人财务管理（金融、投资、理财）](https://www.douban.com/doulist/134957534/)
 ### 2. 路演资源：（待更新）
 
-###3. 小全局报告：
+### 3. 小全局报告：
 
 | 小组 | 小全局链接                                                   | 组员                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | [人与金钱的关系小全局](https://shimo.im/docs/PxJWQTP3WGd9cYv8/) | **卡片贡献：**郁珏（主笔）、ycl、十六字、小煜、C罗、JUN、點點丶、咏叹<br />**1组成员：**JUN、ycl、郁珏、李泽煜Capmon（이택욱）、（十六字）一乐拉面要放鸣人卷、咏叹、點點丶、nancy、七七、Altaria、C罗、Jenny |
+| 1    | [人与金钱的关系小全局](https://shimo.im/docs/PxJWQTP3WGd9cYv8/) | 主笔：郁珏<br />1组成员：JUN、ycl、郁珏、李泽煜Capmon（이택욱）、（十六字）一乐拉面要放鸣人卷、咏叹、點點丶、nancy、七七、Altaria、C罗、Jenny |
 | 1    | [人与金钱的关系 By 十六 ](https://docs.qq.com/doc/DQ2FmTUdHYkhxTlRv) |                                                              |
-| 2    | [贯穿一生的理财规划小全局](https://shimo.im/docs/DHQGDj68R9RDDYXH) | **主笔人：**小人物、C罗<br />**卡片贡献：**C罗、emerald park、小人物（写卡狂魔）、薰一、Ö<br />**2组成员：**C罗、达芬奇、emerald park、KONG、L、米妖喵、浅浅的眠、王春叶、小人物、薰一、月见葳蕤、Ö |
-| 3    | [个人投资行为学小全局](https://docs.qq.com/doc/DR2N5T1hyQ3FKUHhj) | **3组成员：**WEIS1，巫小宏，徐景，长风，姚新新，Harrison，西门牛，清澈溪流，X，YING |
-| 4    | [保险小全局](https://docs.qq.com/doc/DR1h1S3BWVlNyUG1p)      | **主笔人：**人人都是主笔人<br />**小组成员：**月月、彦喻、Ben、琪、大石、驽马、单一念 |
-| 5    | [投资规划小全局 By Aromacat](https://docs.qq.com/doc/DZG1oSFdTb0NTcGJV) | **主笔人：**aromacat<br />**5组成员：**木头、HanFei、向往平静、方逸鹏、曾梓庭、WS-?、怪盗KID、spring、summer、不周、018、aromacat |
+| 2    | [贯穿一生的理财规划小全局](https://shimo.im/docs/DHQGDj68R9RDDYXH) | 主笔：小人物、C罗<br />卡片贡献：C罗、emerald park、小人物（写卡狂魔）、薰一、Ö<br />2组成员：C罗、达芬奇、emerald park、KONG、L、米妖喵、浅浅的眠、王春叶、小人物、薰一、月见葳蕤、Ö |
+| 3    | [个人投资行为学小全局](https://docs.qq.com/doc/DR2N5T1hyQ3FKUHhj) | 3组成员：WEIS1，巫小宏，徐景，长风，姚新新，Harrison，西门牛，清澈溪流，X，YING |
+| 4    | [保险小全局](https://docs.qq.com/doc/DR1h1S3BWVlNyUG1p)      | 主笔：人人都是主笔人<br />小组成员：月月、彦喻、Ben、琪、大石、驽马、单一念 |
+| 5    | [投资规划小全局 By Aromacat](https://docs.qq.com/doc/DZG1oSFdTb0NTcGJV) | 主笔：aromacat<br />5组成员：木头、HanFei、向往平静、方逸鹏、曾梓庭、WS-?、怪盗KID、spring、summer、不周、018、aromacat |
 | 5    | [基金小全局 By Spring+WS](https://shimo.im/docs/6WWKpqy3G6d8Wxxv/) |                                                              |
 | 5    | [指数基金分类小全局-初稿By 方逸鹏](https://docs.qq.com/doc/DZE1wUWx2S1dWckt2) |                                                              |
-| 6    | [价值投资小全局](https://docs.qq.com/doc/DRXN0R052ZEtmTFhs)  | **主笔人：**人人都是主笔人<br />**6组成员：**冯静仪、Altaria、 chenyang、浅眠、黄雪、蓝川、徐景、花花、小江、KONG、清澈溪流、张希 |
+| 6    | [价值投资小全局](https://docs.qq.com/doc/DRXN0R052ZEtmTFhs)  | 主笔：人人都是主笔人<br />6组成员：冯静仪、Altaria、 chenyang、浅眠、黄雪、蓝川、徐景、花花、小江、KONG、清澈溪流、张希 |
 | 6    | [财务分析小全局 By chenyang](https://docs.qq.com/doc/DS2JWTW1yVmtaZFRs) |                                                              |
 
 ### 4. 日志资源:   
@@ -81,14 +81,14 @@
 | 5    | 木头         | [《国债小作文》](https://docs.qq.com/doc/DU3B4TmFZcGxmUU9I)  | 开头大爷大妈排队买国债的场景很有画面感，让人有读下去的欲望。接下来用自己的语言解释了国债是什么，引出国债、证券的知识，转写程度很高。；金字塔结构运用娴熟 |
 | 5    | 怪盗KID      | [《指数基金，卡片待整理》](https://shimo.im/docs/dPRrcGC99TjwppqP/) | 非常清晰明了的说明文，“指数基金”定义部分的可以与summer文中对照着看。前者概述力强；后者对不同指数基金的解释更详细。可根据不同场合选择使用。 |
 | 5    | *018         | [《888字带你了解「个人理财」》](https://docs.qq.com/doc/DTnFOc05qQ2pabVV5) | 真的是888字！非常全面的一个「个人理财」综述，包括个人理财定义、步骤等等，目标是整个拓荒营的微缩版。致敬！ |
-| 5    | Spring       | [《风险策略&产品选择》](https://shimo.im/docs/wHqhcPrph3DyxKvc/) | 详细的**基金**选择指南！特别从风险的角度进行基金分类，给出了资产组合和分散投资的策略。不满足于指数基金的小伙伴可以看过来～ |
+| 5    | Spring       | [《风险策略&产品选择》](https://shimo.im/docs/wHqhcPrph3DyxKvc/) | 详细的基金选择指南！特别从风险的角度进行基金分类，给出了资产组合和分散投资的策略。不满足于指数基金的小伙伴可以看过来～ |
 | 5    | Spring       | [《基金信息渠道》](https://shimo.im/sheets/6PXXk9j9gpcXGRPk/MODOC/) | 还有[《](https://shimo.im/sheets/6PXXk9j9gpcXGRPk/MODOC/)[基金信息渠道](https://shimo.im/sheets/6PXXk9j9gpcXGRPk/MODOC/)[》](https://shimo.im/sheets/6PXXk9j9gpcXGRPk/MODOC/)超级有质量的渠道信息！按照类标、网站背景、功能、链接整理了与基金相关的工具表。非常有价值的工作，感谢！ |
 | 5    | WS-？        | [《基金平台费率对比日志》](https://docs.qq.com/doc/DZmFLRm5nY3VYcWFp) | 目标清晰，指导实操，就是要找的买基金划算的平台！；知乎答案与书本对照，多个信息源交叉对比。知识管理的基本功扎实，点赞！ |
 | 6    | chenyang     | [《资产负债表中的4个关注点》](https://docs.qq.com/doc/DS1BqdFJqWGxUVGtT) | 为了写小作文，学了一遍会计学，是不是超值！抓住教材，抓住关键点；虽说是对术语的“摘抄摘抄再摘抄”，但也是抄得很有水平，不忘金字塔结构；资产负债表中的关注点结合了投资股票时的案例，很棒！学习了 |
 | 6    | 江           | [《宁愿模糊的正确，不要精准的错误》](https://docs.qq.com/doc/DU0l5amlCR3VxeXZQ) | 标题金句很吸引人，让人想一探究竟为什么这么说！               |
 | 6    | 花花         | [《价值投资理念及估值》](https://shimo.im/docs/cd8dckCryrpQdXch/) | 对价值投资理念和实践是非常详细的介绍！解释了许多耳熟能详的名词。很棒的价值投资科普文 |
 | 6    | 清澈溪流     | [《股票投资计算工具、网站、大V）》](https://docs.qq.com/doc/DWHFQdEtKTFF6cE1k) | 股票投资信息渠道收集，超级有价值的工作！股票理财计算器这个第一次看到，学习了！ |
-| 6    | 黄雪         | [《个人小作文-价值投资》](https://www.yuque.com/docs/share/167de8c5-dfa4-4b68-8737-90bf4270471a?) | 一句话讲清楚了价值投资是什么：价值投资的逻辑就是“**估值**”然后“**便宜买好货**”。清晰！；介绍了价值投资的代表人物，人物小传写的很棒！（可能需要继续转写？） |
+| 6    | 黄雪         | [《个人小作文-价值投资》](https://www.yuque.com/docs/share/167de8c5-dfa4-4b68-8737-90bf4270471a?) | 一句话讲清楚了价值投资是什么：价值投资的逻辑就是“估值”然后“便宜买好货”。清晰！；介绍了价值投资的代表人物，人物小传写的很棒！（可能需要继续转写？） |
 | 6    | 蓝川         | [《价值投资的小作文》](https://shimo.im/docs/pqpPXGkQQKDpQKGD) | 一句话说清价值投资：一种常见的投资方式，专门寻找价格低估的证券 |
 
 
@@ -98,7 +98,7 @@
 
 ### changelog:
 
-- 2020.02.11 添加小作文
+- 2020.02.11 添加小作文与小全局报告
 - 2020.01.30 添加理财资源整理by花花与[《投资相关》](https://www.yuque.com/docs/share/a9917641-756b-4ad0-8587-17e4069416cb?#bTno)by黄雪
 - 2020.01.30 添加搜索和目录对比日志
 - 2020.01.18 创建日志
