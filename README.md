@@ -92,7 +92,7 @@
 | 5    | aromacat     | [《投资规划小小全局aromacat》](https://docs.qq.com/doc/DZHFYRkhic1duUEtW) | 从投资规划的目的、定义入手，介绍了资产组合理论、行动，以及投资启示。非常干货！；资产组合、资产配置、投资规划、理财规划、无风险资产、最有风险资产……澄清一下术语的含义，警惕知识的诅咒 |
 | 5    | 木头         | [《国债小作文》](https://docs.qq.com/doc/DU3B4TmFZcGxmUU9I)  | 开头大爷大妈排队买国债的场景很有画面感，让人有读下去的欲望。接下来用自己的语言解释了国债是什么，引出国债、证券的知识，转写程度很高。；金字塔结构运用娴熟 |
 | 5    | 怪盗KID      | [《指数基金，卡片待整理》](https://shimo.im/docs/dPRrcGC99TjwppqP/) | 非常清晰明了的说明文，“指数基金”定义部分的可以与summer文中对照着看。前者概述力强；后者对不同指数基金的解释更详细。可根据不同场合选择使用。 |
-| 5    | *018         | [《888字带你了解「个人理财」》](https://docs.qq.com/doc/DTnFOc05qQ2pabVV5) | 真的是888字！非常全面的一个「个人理财」综述，包括个人理财定义、步骤等等，目标是整个拓荒营的微缩版。致敬！ |
+| 5    | 018          | [《888字带你了解「个人理财」》](https://docs.qq.com/doc/DTnFOc05qQ2pabVV5) | 真的是888字！非常全面的一个「个人理财」综述，包括个人理财定义、步骤等等，目标是整个拓荒营的微缩版。致敬！ |
 | 5    | Spring       | [《风险策略&产品选择》](https://shimo.im/docs/wHqhcPrph3DyxKvc/) | 详细的基金选择指南！特别从风险的角度进行基金分类，给出了资产组合和分散投资的策略。不满足于指数基金的小伙伴可以看过来～ |
 | 5    | Spring       | [《基金信息渠道》](https://shimo.im/sheets/6PXXk9j9gpcXGRPk/MODOC/) | 还有[《](https://shimo.im/sheets/6PXXk9j9gpcXGRPk/MODOC/)[基金信息渠道](https://shimo.im/sheets/6PXXk9j9gpcXGRPk/MODOC/)[》](https://shimo.im/sheets/6PXXk9j9gpcXGRPk/MODOC/)超级有质量的渠道信息！按照类标、网站背景、功能、链接整理了与基金相关的工具表。非常有价值的工作，感谢！ |
 | 5    | WS-？        | [《基金平台费率对比日志》](https://docs.qq.com/doc/DZmFLRm5nY3VYcWFp) | 目标清晰，指导实操，就是要找的买基金划算的平台！；知乎答案与书本对照，多个信息源交叉对比。知识管理的基本功扎实，点赞！ |
@@ -103,7 +103,7 @@
 | 6    | 黄雪         | [《个人小作文-价值投资》](https://www.yuque.com/docs/share/167de8c5-dfa4-4b68-8737-90bf4270471a?) | 一句话讲清楚了价值投资是什么：价值投资的逻辑就是“估值”然后“便宜买好货”。清晰！；介绍了价值投资的代表人物，人物小传写的很棒！（可能需要继续转写？） |
 | 6    | 蓝川         | [《价值投资的小作文》](https://shimo.im/docs/pqpPXGkQQKDpQKGD) | 一句话说清价值投资：一种常见的投资方式，专门寻找价格低估的证券 |
 
-#### 4.3 [拓荒营小组写作清单](https://docs.qq.com/sheet/DTmpBT0N2cFZVbEdW?tab=tr279z)
+#### 4.3 [拓荒营小组协作清单](https://docs.qq.com/sheet/DTmpBT0N2cFZVbEdW?tab=tr279z)
 
 包含各小组框架、分工、推进安排、汇总资源
 
