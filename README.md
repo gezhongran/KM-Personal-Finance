@@ -31,7 +31,7 @@
 
 | 小组 | 小全局链接                                                   | 组员                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | [人与金钱的关系小全局](https://shimo.im/docs/PxJWQTP3WGd9cYv8/) | 主笔：郁珏<br />1组成员：JUN、ycl、郁珏、李泽煜Capmon（이택욱）、（十六字）一乐拉面要放鸣人卷、咏叹、點點丶、nancy、七七、Altaria、C罗、Jenny |
+| 1    | [人与金钱的关系小全局](https://shimo.im/docs/KMbGuoIfQr4h2UMm/read) | 主笔：郁珏<br />1组成员：JUN、ycl、郁珏、李泽煜Capmon（이택욱）、（十六字）一乐拉面要放鸣人卷、咏叹、點點丶、nancy、七七、Altaria、C罗、Jenny |
 | 1    | [人与金钱的关系 By 十六 ](https://docs.qq.com/doc/DQ2FmTUdHYkhxTlRv) |                                                              |
 | 2    | [贯穿一生的理财规划小全局](https://shimo.im/docs/DHQGDj68R9RDDYXH) | 主笔：小人物、C罗<br />卡片贡献：C罗、emerald park、小人物（写卡狂魔）、薰一、Ö<br />2组成员：C罗、达芬奇、emerald park、KONG、L、米妖喵、浅浅的眠、王春叶、小人物、薰一、月见葳蕤、Ö |
 | 3    | [个人投资行为学小全局](https://docs.qq.com/doc/DR2N5T1hyQ3FKUHhj) | 3组成员：WEIS1，巫小宏，徐景，长风，姚新新，Harrison，西门牛，清澈溪流，X，YING |
