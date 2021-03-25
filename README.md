@@ -37,6 +37,7 @@
 | 3    | [个人投资行为学小全局](https://docs.qq.com/doc/DR2N5T1hyQ3FKUHhj) | 3组成员：WEIS1，巫小宏，徐景，长风，姚新新，Harrison，西门牛，清澈溪流，X，YING |
 | 4    | [保险小全局](https://docs.qq.com/doc/DR1h1S3BWVlNyUG1p)      | 主笔：人人都是主笔人<br />小组成员：月月、彦喻、Ben、琪、大石、驽马、单一念 |
 | 5    | [投资规划小全局 By Aromacat](https://docs.qq.com/doc/DZG1oSFdTb0NTcGJV) | 主笔：aromacat<br />5组成员：木头、HanFei、向往平静、方逸鹏、曾梓庭、WS-?、怪盗KID、spring、summer、不周、018、aromacat |
+| 5    | [个人理财小全局By 018](https://docs.qq.com/doc/DTlpEU2dTSk90WVZz) |                                                              |
 | 5    | [基金小全局 By Spring+WS](https://shimo.im/docs/6WWKpqy3G6d8Wxxv/) |                                                              |
 | 5    | [指数基金分类小全局-初稿By 方逸鹏](https://docs.qq.com/doc/DZE1wUWx2S1dWckt2) |                                                              |
 | 6    | [价值投资小全局](https://docs.qq.com/doc/DRXN0R052ZEtmTFhs)  | 主笔：人人都是主笔人<br />6组成员：冯静仪、Altaria、 chenyang、浅眠、黄雪、蓝川、徐景、花花、小江、KONG、清澈溪流、张希 |
@@ -77,6 +78,7 @@
 | 29   | [郁珏](https://shimo.im/docs/rqdPgGyw9DgR6Cw6/)              | 定位阅读           | 有关金钱观和金钱心理的阅读日志，如果沿着参考文献扒出来的结果都是重合的那么就说明，这块原创性的研究并不多 |
 | 30   | [郁珏](https://shimo.im/docs/dhjwdd3Rtwc6JRk6/read)          | 小组讨论日志       | [小组框架的一波三折的日志](https://shimo.im/docs/dhjwdd3Rtwc6JRk6/read)，记录了小全局报告框架的诞生过程 |
 | 31   | [Ö](https://docs.qq.com/doc/DWkl1bEZUQkh6T3FW)               | 定位阅读           | 非常棒的定位读日志，日本FP的内容更加丰富和详细了。           |
+| 32   | [018](https://docs.qq.com/doc/DTlBOblNYbUZ5bXpG)             | 拼卡成文日志       | 「编著」与「著作」体会非常真实，写作过程中逃避与影响生活心态非常真实，同时理解了这种心态的并且调整的思路非常宝贵。 |
 
 #### 4.2 小作文点评
 
